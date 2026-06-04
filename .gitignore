@@ -1,0 +1,10 @@
+# Maven
+target/
+
+# NetBeans
+build/
+dist/
+nbproject/private/
+
+# Java compilado
+*.class
